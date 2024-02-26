@@ -1,8 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
 
+*{
+    font-family: 'Raleway';
+}
 
 nav{
     background-color: #0cb6d8;
     color: white;
+}
+
+nav a{
+    margin-left: 1.5em;
+}
+
+.links-div{
+    margin-right: 3em;
 }
 
 main{
@@ -30,7 +42,7 @@ h2{
     color: white;
 }
 
-@media (max-width: 1000px) {
+@media (max-width: 800px) {
     .section-1 {
         display: none;
     }
