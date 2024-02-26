@@ -50,6 +50,20 @@ h2{
     color: white;
 }
 
+.card-imgs{
+    padding: 0 !important;
+    height: 150px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.cards{
+    padding: 0 !important;
+    font-weight: 200;
+    border: none !important;
+}
+
 .section-3{
     margin-top: 3em;
 }
@@ -80,15 +94,3 @@ footer i {
     }
 }
 
-.card-imgs{
-    padding: 0 !important;
-    height: 150px;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-
-.cards{
-    padding: 0 !important;
-    font-weight: 200;
-}
