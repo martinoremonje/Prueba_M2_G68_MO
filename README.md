@@ -6,7 +6,8 @@ Bienvenido al repositorio de la Página de Viajes Chile, un proyecto diseñado y
 
 Tecnologías Utilizadas
 
-Este proyecto ha sido desarrollado utilizando jQuery y Bootstrap, aprovechando las funcionalidades y estilos que estas librerías ofrecen.
+Este proyecto ha sido desarrollado utilizando jQuery y Bootstrap, aprovechando las funcionalidades y estilos que estas librerías ofrecen. Pagina responsiva, funciona tanto en desktop
+como en mobile.
 
 Características
 
