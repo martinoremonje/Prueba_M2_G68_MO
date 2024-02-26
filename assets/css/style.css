@@ -66,6 +66,7 @@ footer i {
     color: white;
 }
 
+
 @media (min-width: 1000px){
     
 .section-2{
@@ -74,6 +75,21 @@ footer i {
 
 .section-2-div{
     padding-left: 4em;
+}
+
+
+@media (min-width:1800px){
+    .section-1{
+        margin-top: 2em;
+    }
+    .section-2{
+        margin-top: 5em;
+
+    }
+    
+    .section-2-div{
+        padding-left: 20em;
+    }
 }
 
 footer{
